@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e861854-b69e-4fcb-ba3b-901f5a1a6c51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/photo/about-pets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/photo/donation-dog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/photo/footer-gradient-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/photo/footer-puppy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/photo/pets-jennifer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/photo/pets-katrine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/photo/pets-woody.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/photo/start-screen-gradient-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/photo/start-screen-puppy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.html" afterDir="false" />
+    <list default="true" id="3e861854-b69e-4fcb-ba3b-901f5a1a6c51" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/test/test.mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Volok13"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Volok13/test.git",
@@ -93,11 +86,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722170421498</updated>
-      <workItem from="1722170422467" duration="711000" />
+      <workItem from="1722170422467" duration="16973000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1722171158472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722171158473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
