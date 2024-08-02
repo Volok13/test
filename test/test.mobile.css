@@ -99,7 +99,7 @@
         margin: 60px auto 105px auto;
     }
     .first>.content-top>h2{
-        width: 300px;
+        width: 200px;
         height: 64px;
         color: var(--color-light-xl, #FFF);
         text-align: center;
@@ -620,11 +620,9 @@ footer>.for{
         display: flex;
         justify-content: center;
         align-items: center;
-        margin: 45px 0 0 0;
+        margin: 100px 0 0 0;
         width: 260px;
         height: 269px;
-        /*position: absolute;*/
-        /*bottom: 0;*/
     }
 
 

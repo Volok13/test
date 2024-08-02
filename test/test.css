@@ -202,7 +202,7 @@ nav>ul>li>a:hover{
     background: #F6F6F6;
 }
 .third>h3{
-    width: 400px;
+    width: 450px;
     height: 90px;
     color: var(--color-dark-l, #545454);
     text-align: center;
@@ -297,7 +297,7 @@ article{
 }
 article>h3{
     margin: 53px auto 60px auto;
-    width: 308px;
+    width: 358px;
     height: 90px;
     color: var(--color-dark-l, #545454);
     text-align: center;
@@ -387,7 +387,8 @@ article>.card>div>span{
 }
 .fourth>.content>.content-down>.type{
     margin: 0 auto 20px 30px;
-    width: 307px;
+    flex-wrap: nowrap;
+    width: 357px;
     height: 17px;
     color: var(--color-dark-l, #545454);
     font-family: Georgia;
@@ -437,20 +438,12 @@ footer{
     width: 100%;
     height: 350px;
 }
-/*footer>.footer{*/
-/*    width: 80%;*/
-/*    height: 310px;*/
-/*    display: flex;*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
-/*}*/
 .footer-background{
     background-size: cover;
     width: 100%;
     height: 450px;
     position: absolute;
-    z-index: -1;
-    /*padding: 0;*/
+    z-index: -1;/
     top: 3446px;
 }
 footer>.for{
@@ -574,5 +567,5 @@ footer>.we>.park{
 footer>.img-footer{
     width: 300px;
     height: 310px;
-    margin: 40px auto 0 0;
+    margin: 130px auto 0 0;
 }
